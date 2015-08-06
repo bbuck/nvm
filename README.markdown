@@ -9,6 +9,7 @@ Note: `nvm` does not support Windows (see [#284](https://github.com/creationix/n
  - [nvm-windows](https://github.com/coreybutler/nvm-windows)
 
 Note: `nvm` does not support [Fish] either (see [#303](https://github.com/creationix/nvm/issues/303)). Two alternatives exist, which are not supported nor developed by us:
+ - [bass](https://github.com/edc/bass) (capable of full `nvm` features through quick and easy bash execution)
  - [nvm-fish-wrapper](https://github.com/passcod/nvm-fish-wrapper)
  - [nvm-fish](https://github.com/Alex7Kom/nvm-fish) (does not support iojs)
 
